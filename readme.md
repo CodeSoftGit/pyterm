@@ -7,6 +7,9 @@
 ## Usage
 Run the .exe file.
 
+## Kanban Board
+[GitHub Projects Board](https://github.com/users/CodeSoftGit/projects/2/views/1)
+
 ## Build
 Install pyinstaller and run:
 ```
